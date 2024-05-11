@@ -8,7 +8,7 @@
 
 **2nd Examiner:** Prof. Dr. Benjamin Fabian
 
-The GitHub repository contains the partial experimental part of the thesis due to confidential reasons.
+The GitHub repository contains the partial code of the thesis due to confidential reasons.
 
 
 
